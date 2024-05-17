@@ -47,7 +47,7 @@ Welcome to the repository for all my Computer Science lecture notes and lab file
   - [Lecture Notes](path/to/lecture-notes)
   - [Lab Files](path/to/lab-files)
 - **COMP2004 - Human Computer Interaction**
-  - [Lecture Notes](path/to/lecture-notes)
+  - [Lecture Notes](Year%202/2004%20-%20HCI/)
   - [Lab Files](path/to/lab-files)
 - **COMP2005 - Introduction to Image Processing**
   - [Lecture Notes](path/to/lecture-notes)

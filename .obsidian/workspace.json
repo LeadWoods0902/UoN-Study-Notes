@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/2004 - HCI/23.02.07 - Perception & Design.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year 2/2004 - HCI/23.02.07 - Perception & Design.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year 2/2004 - HCI/23.02.07 - Perception & Design.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year 2/2004 - HCI/23.02.07 - Perception & Design.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,12 +148,32 @@
   },
   "active": "766323f4b58d7219",
   "lastOpenFiles": [
-    "Year 2/2004 - HCI/HCI.md",
+    "Year 2/2004 - HCI.md",
+    "README.md",
+    "Year.md",
+    "Year 3/3006 - CS/24.02.02 - Foundations of Security.md",
+    "Year 3/3006 - CS/24.02.20 - Unix & Linux.md",
+    "Year 3/3006 - CS/Authentication.md",
+    "Year 3/3006 - CS/Authentication 2.md",
     "Year 2/2004 - HCI/23.02.07 - Perception & Design.md",
+    "Year 3/3006 - CS/TLS & PKI.md",
+    "Year 3/3006 - CS/Reference Monitors.md",
+    "Year 3/3006 - CS/Network Security.md",
+    "Year 3/3006 - CS/Network Security 2.md",
+    "Year 3/3006 - CS/Malware.md",
+    "Year 3/3006 - CS/Lectures.md",
+    "Year 3/3006 - CS/Lecture 1.md",
+    "Year 3/3006 - CS/Intrusion Detection.md",
+    "Year 3/3006 - CS/Internet Security.md",
+    "Year 3/3006 - CS/Guest Lecture.md",
+    "Year 3/3006 - CS/Firewalls.md",
+    "Year 3/3006 - CS/Exploits.md",
+    "Year 3/3006 - CS/Database Security.md",
+    "Year 3/3006 - CS/Cryptography.md",
+    "Year 3/3006 - CS/Windows.md",
+    "Year 2/2004 - HCI/HCI.md",
     "Year 2/2004 - HCI/23.03.10 -  Requirements Gathering.md",
     "Year 2/2004 - HCI/23.02.24 - Usability.md",
-    "Year 2/2004 - HCI/23.02.17 - Designing GUIs.md",
-    "README.md",
     "Year 4/4036 - MR",
     "Year 4/4040 - PAADS",
     "Year 4/4002 - G",
