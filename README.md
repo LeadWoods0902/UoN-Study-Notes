@@ -60,7 +60,7 @@ Welcome to the repository for all my Computer Science lecture notes and lab file
 
 ### Full Year <a name="full-year-year-3"></a>
 
-- **COMP3003 - Dissertation**
+- **COMP3003 - Individual Dissertation**
   - [Project Documentation](path/to/documentation)
   - [Project Files](path/to/project-files)
 
@@ -69,7 +69,7 @@ Welcome to the repository for all my Computer Science lecture notes and lab file
 - **COMP3018 - Mobile Device Programming**
   - [Lecture Notes](path/to/lecture-notes)
   - [Lab Files](path/to/lab-files)
-- **COMP3020 - Professional Ethics**
+- **COMP3020 - Professional Ethics in Computing**
   - [Lecture Notes](path/to/lecture-notes)
   - [Lab Files](path/to/lab-files)
 - **COMP4034 - Autonomous Robotic Systems**
@@ -89,13 +89,13 @@ Welcome to the repository for all my Computer Science lecture notes and lab file
 
 ### Autumn Semester <a name="autumn-semester-year-4"></a>
 
-- **COMP4041 - Linear Discrete Optimisation**
+- **COMP4041 - Linear and Discrete Optimisation**
   - [Lecture Notes](path/to/lecture-notes)
   - [Lab Files](path/to/lab-files)
 - **COMP4019 - Advanced Algorithms & Data Structures**
   - [Lecture Notes](path/to/lecture-notes)
   - [Lab Files](path/to/lab-files)
-- **COMP4032 - Advanced Communication Networks**
+- **COMP4032 - Advanced Computer Networks**
   - [Lecture Notes](path/to/lecture-notes)
   - [Lab Files](path/to/lab-files)
 - **COMP3021 - Data Visualisation**
@@ -104,13 +104,13 @@ Welcome to the repository for all my Computer Science lecture notes and lab file
 
 ### Spring Semester <a name="spring-semester-year-4"></a>
 
-- **COMP4101 - Malware Analysis**
+- **COMP4101 - [Malware Analysis](https://campus.nottingham.ac.uk/psc/csprd_pub/EMPLOYEE/HRMS/c/UN_PROG_AND_MOD_EXTRACT.UN_PLN_EXTRT_FL_CP.GBL?PAGE=UN_CRS_EXT4_FPG&CAMPUS=U&TYPE=Module&YEAR=2024&TITLE=Malware%20Analysis&MODULE=COMP4101&CRSEID=033988&LINKA=&LINKB=&LINKC=USC-CS_)**
   - [Lecture Notes](path/to/lecture-notes)
   - [Lab Files](path/to/lab-files)
-- **COMP4002 - Games**
+- **COMP4002 - [Games](https://campus.nottingham.ac.uk/psc/csprd_pub/EMPLOYEE/HRMS/c/UN_PROG_AND_MOD_EXTRACT.UN_PLN_EXTRT_FL_CP.GBL)**
   - [Lecture Notes](path/to/lecture-notes)
   - [Lab Files](path/to/lab-files)
-- **COMP4040 - Advanced Algorithms & Data Structures Project**
+- **COMP4040 - [Project in Advanced Algorithms and Data Structures](https://campus.nottingham.ac.uk/psc/csprd_pub/EMPLOYEE/HRMS/c/UN_PROG_AND_MOD_EXTRACT.UN_PLN_EXTRT_FL_CP.GBL)**
   - [Project Documentation](path/to/documentation)
   - [Project Files](path/to/project-files)
 - **COMP4036 - Mixed Reality**
