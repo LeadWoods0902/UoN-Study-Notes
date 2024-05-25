@@ -11,11 +11,9 @@
             "id": "766323f4b58d7219",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Year 3/3006 - CS/resources/Pasted image 20240520220219.png"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Firewalls",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Year 3/3006 - CS/resources/Pasted image 20240520220219.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Year 3/3006 - CS/resources/Pasted image 20240520220219.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Year 3/3006 - CS/resources/Pasted image 20240520220219.png"
               }
             }
           }
@@ -148,32 +146,42 @@
   },
   "active": "766323f4b58d7219",
   "lastOpenFiles": [
-    "Year 2/2004 - HCI.md",
+    "Untitled.md",
+    "Year 3/3006 - CS/resources/Pasted image 20240520220219.png",
+    "Year 3/3006 - CS/resources/Pasted image 20240517162619.png",
+    "Year 3/3006 - CS/resources",
+    "Year 3/3006 - CS/resources/Pasted image 20240517163234.png",
+    "Year 3/3006 - CS/resources/Pasted image 20240518214529.png",
+    "Year 3/3006 - CS/resources/Pasted image 20240518214922.png",
+    "Year 3/3006 - CS/resources/Pasted image 20240518220003.png",
+    "Year 3/3006 - CS/resources/Pasted image 20240518220841.png",
+    "Year 3/3006 - CS/resources/Pasted image 20240518221152.png",
+    "Year 3/3006 - CS/resources/Pasted image 20240518221633.png",
+    "Year 3/3006 - CS/revision.md",
+    "Year 3/3006 - CS/Lectures/24.02.02 - Foundations of Security.md",
+    "Year 3/3006 - CS/Lectures/Cryptography.md",
+    "Year 3/3006 - CS/Lectures/_Lectures.md",
+    "Year 3/3006 - CS/Lectures/Internet Security.md",
+    "Year 3/3006 - CS/Lectures/24.03.12 - Firewalls.md",
+    "Year 3/3006 - CS/Lectures",
+    "Year 3/3006 - CS/Lectures/Lecture 1.md",
+    "Year 3/3006 - CS/Lectures/Database Security.md",
+    "Year 3/3006 - CS/Lectures/Exploits.md",
+    "Year 3/3006 - CS/Lectures/Network Security 2.md",
+    "Year 3/3006 - CS/Lectures/Network Security.md",
+    "Year 3/3006 - CS/Lectures/Intrusion Detection.md",
     "README.md",
+    "Year 2/2004 - HCI.md",
     "Year.md",
-    "Year 3/3006 - CS/24.02.02 - Foundations of Security.md",
-    "Year 3/3006 - CS/24.02.20 - Unix & Linux.md",
-    "Year 3/3006 - CS/Authentication.md",
-    "Year 3/3006 - CS/Authentication 2.md",
+    "Year 3/3006 - CS/Lectures/24.02.20 - Unix & Linux.md",
+    "Year 3/3006 - CS/Lectures/Authentication.md",
+    "Year 3/3006 - CS/Lectures/Authentication 2.md",
     "Year 2/2004 - HCI/23.02.07 - Perception & Design.md",
-    "Year 3/3006 - CS/TLS & PKI.md",
-    "Year 3/3006 - CS/Reference Monitors.md",
-    "Year 3/3006 - CS/Network Security.md",
-    "Year 3/3006 - CS/Network Security 2.md",
-    "Year 3/3006 - CS/Malware.md",
-    "Year 3/3006 - CS/Lectures.md",
-    "Year 3/3006 - CS/Lecture 1.md",
-    "Year 3/3006 - CS/Intrusion Detection.md",
-    "Year 3/3006 - CS/Internet Security.md",
-    "Year 3/3006 - CS/Guest Lecture.md",
-    "Year 3/3006 - CS/Firewalls.md",
-    "Year 3/3006 - CS/Exploits.md",
-    "Year 3/3006 - CS/Database Security.md",
-    "Year 3/3006 - CS/Cryptography.md",
-    "Year 3/3006 - CS/Windows.md",
-    "Year 2/2004 - HCI/HCI.md",
-    "Year 2/2004 - HCI/23.03.10 -  Requirements Gathering.md",
-    "Year 2/2004 - HCI/23.02.24 - Usability.md",
+    "Year 3/3006 - CS/Lectures/TLS & PKI.md",
+    "Year 3/3006 - CS/Lectures/Reference Monitors.md",
+    "Year 3/3006 - CS/Lectures/Malware.md",
+    "Year 3/3006 - CS/Lectures/Guest Lecture.md",
+    "Year 3/3006 - CS/Lectures/Windows.md",
     "Year 4/4036 - MR",
     "Year 4/4040 - PAADS",
     "Year 4/4002 - G",
@@ -181,8 +189,6 @@
     "Year 4/3021 - DV",
     "Year 4/4031 - ACE",
     "Year 4/4019 - AADS",
-    "Year 4/4041 - LDO",
-    "Year 3/3007 - CG",
-    "Year 3/3006 - CS"
+    "Year 4/4041 - LDO"
   ]
 }
